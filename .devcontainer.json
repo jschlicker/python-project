@@ -31,12 +31,6 @@
 			"*.ipynb": "jupyter.notebook.ipynb"
 		},
     	"editor.defaultFormatter": "esbenp.prettier-vscode",
-		"editor.fontFamily": "Consolas, 'Courier New' monospace",
-		"editor.fontSize": 14,
-		"editor.fontLigatures": false,
-		"terminal.integrated.fontFamily": "Consolas",
-		"terminal.integrated.fontSize": 14,
-		"terminal.integrated.lineHeight":1,
         "files.associations": {
             "*.json": "jsonc"
         }

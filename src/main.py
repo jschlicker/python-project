@@ -1,10 +1,11 @@
 from turtle import width
 import pygame, sys
-from src.code.settings import *
+from settings import *
 from debug import debug
-from src.code.level import Level
+from level import Level
 
 class Game:
+    # Initialize pygame window
     def __init__(self) :
         
         # general setup
@@ -13,8 +14,10 @@ class Game:
         pygame.display.set_caption('python-game')
         self.clock = pygame.time.Clock()
 
+        # getting level information
         self.level = Level()
 
+    # Running ingame content
     def run(self):
         while True:
             for event in pygame.event.get():
@@ -27,6 +30,7 @@ class Game:
             pygame.display.update()
             self.clock.tick(FPS)
 
+# Running Game class
 if __name__ == '__main__':
     game = Game()
     game.run()
