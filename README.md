@@ -5,7 +5,7 @@ Python-Project
 
 [Tutorial](https://www.youtube.com/watch?v=QU1pPzEGrqw&ab_channel=ClearCode)
 
-WatchTime: 50:22
+WatchTime: 01:55:11
 
 ### Start-up
 
