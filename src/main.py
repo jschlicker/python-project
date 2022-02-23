@@ -17,7 +17,7 @@ class Game:
         # getting level information
         self.level = Level()
 
-    # Running ingame content
+    # Running game
     def run(self):
         while True:
             for event in pygame.event.get():
