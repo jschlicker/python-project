@@ -5,8 +5,8 @@ Python-Project
 
 [Tutorial](https://www.youtube.com/watch?v=QU1pPzEGrqw&ab_channel=ClearCode)
 
-WatchTime: 01:55:11
+WatchTime: 03:04:35
 
-### Start-up
+### How to start:
 
 To start this project locally you have to run the "main.py"-file.
